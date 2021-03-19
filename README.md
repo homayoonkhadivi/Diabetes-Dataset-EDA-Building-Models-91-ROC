@@ -17,3 +17,4 @@ The dataset comes from the Kaggle (The Biggest Data Science Community) https://w
  * 6   DiabetesPedigreeFunction  768 non-null    float64
  * 7   Age                       768 non-null    int64  
  * 8   Outcome                   768 non-null    int64
+![33](https://user-images.githubusercontent.com/57557590/111818759-ca28c780-88f4-11eb-9cca-ead11541aca2.PNG)
