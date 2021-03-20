@@ -18,3 +18,14 @@ The dataset comes from the Kaggle (The Biggest Data Science Community) https://w
  * 7   Age                       768 non-null    int64  
  * 8   Outcome                   768 non-null    int64
 ![33](https://user-images.githubusercontent.com/57557590/111818759-ca28c780-88f4-11eb-9cca-ead11541aca2.PNG)
+# Exploratory Data Analysis EDA
+* From the zero values, we can understand that they are Missing Values in our dataset
+* Hnece, We would convert the Zero values into the NAN values and then solving the missing values
+# Missing Values:
+![Miss](https://user-images.githubusercontent.com/57557590/111877187-53083780-89b7-11eb-81ca-dcdd80bf39c9.PNG)
+# Handling Missing Values
+* Great approach for handling the missing values
+# Outlier Detection:
+![Outlier](https://user-images.githubusercontent.com/57557590/111877236-9793d300-89b7-11eb-8068-a0a7bfc0c6fa.PNG)
+# Data Visualization:
+![data vis](https://user-images.githubusercontent.com/57557590/111877308-fc4f2d80-89b7-11eb-9851-eddc9545ca2d.PNG)
