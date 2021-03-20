@@ -29,6 +29,7 @@ The dataset comes from the Kaggle (The Biggest Data Science Community) https://w
 ![Outlier](https://user-images.githubusercontent.com/57557590/111877236-9793d300-89b7-11eb-8068-a0a7bfc0c6fa.PNG)
 # Data Visualization:
 * A comprehensive and informative data visualiztion was perform in this notebook 
+
 ![data vis](https://user-images.githubusercontent.com/57557590/111877308-fc4f2d80-89b7-11eb-9851-eddc9545ca2d.PNG)
 # Correlation:
 ![corr](https://user-images.githubusercontent.com/57557590/111877372-57812000-89b8-11eb-8585-ef8630644fd5.PNG)
