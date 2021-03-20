@@ -33,3 +33,9 @@ The dataset comes from the Kaggle (The Biggest Data Science Community) https://w
 ![data vis](https://user-images.githubusercontent.com/57557590/111877308-fc4f2d80-89b7-11eb-9851-eddc9545ca2d.PNG)
 # Correlation:
 ![corr](https://user-images.githubusercontent.com/57557590/111877372-57812000-89b8-11eb-8585-ef8630644fd5.PNG)
+
+# Data Engineering
+* New Feature
+* Edit Feature
+* Drop Feature
+* Standardizing Data
