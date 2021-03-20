@@ -39,3 +39,14 @@ The dataset comes from the Kaggle (The Biggest Data Science Community) https://w
 * Edit Feature
 * Drop Feature
 * Standardizing Data
+
+# Fitting data in various models
+* SVM
+* KNN
+* Naive
+* Decision Tree
+* Random Forest
+# Model Performance:
+![model](https://user-images.githubusercontent.com/57557590/111877601-4be22900-89b9-11eb-81eb-a05616403397.PNG)
+
+### We have overfitting issue here, but the best model is SVM
