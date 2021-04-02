@@ -50,3 +50,9 @@ The dataset comes from the Kaggle (The Biggest Data Science Community) https://w
 ![model](https://user-images.githubusercontent.com/57557590/111877601-4be22900-89b9-11eb-81eb-a05616403397.PNG)
 
 ### We have overfitting issue here, but the best model is SVM
+
+# ROC Curve:
+![ROC](https://user-images.githubusercontent.com/57557590/113386804-3fd66e00-93a0-11eb-9bd6-c78b1bb54125.PNG)
+
+# Save Model:
+![Pickle](https://user-images.githubusercontent.com/57557590/113386806-41079b00-93a0-11eb-9085-ca4026b5cabb.PNG)
